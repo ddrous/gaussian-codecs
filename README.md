@@ -1,2 +1,2 @@
 # gaussian-codecs
-Video compression with gaussians
+Video compression with gaussians - Gideo
